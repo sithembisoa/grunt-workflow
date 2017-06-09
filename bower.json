@@ -1,0 +1,21 @@
+{
+  "name": "grunt-workflow",
+  "description": "Grunt first template",
+  "main": "index.js",
+  "authors": [
+    "Athi Sithembiso"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^7.0.0"
+  }
+}
